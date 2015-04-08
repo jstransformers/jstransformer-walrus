@@ -16,7 +16,7 @@
 var transform = require('jstransformer')(require('jstransformer-walrus'))
 var template = 'Hello {{name}}!';
 var data = { name: 'World' };
-foo.render(template, data).body
+transform.render(template, data).body
 // => 'Hello World!'
 ```
 
