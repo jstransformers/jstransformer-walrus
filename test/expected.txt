@@ -1,0 +1,5 @@
+<ul>
+  <li>Pavel Datsyuk plays for the Detroit Red Wings</li>
+  <li>Nicklas Lidström plays for the Detroit Red Wings</li>
+  <li>Darren Helm plays for the Detroit Red Wings</li>
+</ul>

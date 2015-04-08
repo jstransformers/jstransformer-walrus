@@ -1,0 +1,5 @@
+<ul>
+{{:each players do}}
+  <li>{{name}} plays for the {{@team}}</li>
+{{end}}
+</ul>
