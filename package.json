@@ -11,7 +11,7 @@
   ],
   "devDependencies": {
     "istanbul": "^0.4.2",
-    "testit": "^2.0.2"
+    "testit": "^2.1.1"
   },
   "scripts": {
     "test": "node test",
