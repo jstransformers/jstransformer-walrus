@@ -1,29 +1,33 @@
 {
+  "dependencies": {
+    "walrus": "^0.10.1"
+  },
   "name": "jstransformer-walrus",
-  "version": "0.0.2",
-  "description": "JSTransformer support for Walrus.",
+  "version": "0.1.0",
+  "description": "Walrus support for JSTransformers.",
   "keywords": [
-    "jstransformer",
-    "walrus"
+    "jstransformer"
   ],
   "files": [
     "index.js"
   ],
   "devDependencies": {
-    "istanbul": "^0.4.2",
-    "testit": "^2.0.2"
+    "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "node test",
-    "coverage": "istanbul cover test"
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/jstransformers/jstransformer-walrus.git"
   },
-  "author": "Rob Loach <robloach@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "walrus": "^0.10.1"
-  }
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
+  "license": "MIT"
 }
