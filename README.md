@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jstransformer-walrus
 
 [Walrus](https://github.com/jeremyruppel/walrus) support for [JSTransformers](https://github.com/jstransformers/jstransformer).
