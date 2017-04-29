@@ -1,5 +1,7 @@
 # jstransformer-walrus
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-walrus.svg)](https://greenkeeper.io/)
+
 [Walrus](https://github.com/jeremyruppel/walrus) support for [JSTransformers](https://github.com/jstransformers/jstransformer).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-walrus/master.svg)](https://travis-ci.org/jstransformers/jstransformer-walrus)
