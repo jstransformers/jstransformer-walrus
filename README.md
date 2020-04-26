@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-walrus/master.svg)](https://travis-ci.org/jstransformers/jstransformer-walrus)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-walrus/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-walrus)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-walrus/master.svg)](http://david-dm.org/jstransformers/jstransformer-walrus)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-walrus.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-walrus.svg)](https://www.npmjs.org/package/jstransformer-walrus)
 
 ## Installation
